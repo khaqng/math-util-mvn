@@ -1,4 +1,4 @@
-### WELCOME TO MATH UTILYTY REPOSITORY
+### WELCOME TO MATH UTILITY REPOSITORY
 
 #### You will find in this repo the following stuff:
 
