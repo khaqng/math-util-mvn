@@ -1,6 +1,6 @@
-###WELCOME TO MATH UTILYTY REPOSITORY
+### WELCOME TO MATH UTILYTY REPOSITORY
 
-####You will find in this repo the following stuff:
+#### You will find in this repo the following stuff:
 
 * A maven project to demostrate the Math lobrary
 * A Unit Test test script using JUnit Test framework
