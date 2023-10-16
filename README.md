@@ -1,3 +1,5 @@
+[![Math Utility Repo applying CI](https://github.com/khaqng/math-util-mvn/actions/workflows/math-util-ci.yml/badge.svg)](https://github.com/khaqng/math-util-mvn/actions/workflows/math-util-ci.yml)
+
 ### WELCOME TO MATH UTILYTY REPOSITORY
 
 #### You will find in this repo the following stuff:
